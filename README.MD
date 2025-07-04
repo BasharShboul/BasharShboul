@@ -1,4 +1,3 @@
-## 👨‍💻 About Me
 ##  About Me
 
 I’m a Computer Engineer with a passion for **Artificial Intelligence**, **Machine Learning**, and **Software Development**.  
