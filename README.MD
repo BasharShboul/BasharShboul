@@ -10,3 +10,11 @@ My interests include:
 - Writing clean, efficient code in Python, C++, and more
 
 I'm always open to learning new tools and collaborating on exciting projects that push the boundaries of technology.
+
+
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
